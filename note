@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
+
+    <title>Clear Concept Classes (CCC)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+   <nav class="navbar-inverse" style="position:sticky;top:0;z-index:99999">
+
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">CLEARCONCEPTCLASSES</a>
+    </div>
+    
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="#campus_life">Gallery</a></li>
+        <li><a href="#subjects">Subjects</a></li>
+        <li><a data-toggle="modal" data-target="#my_modal"> Time table</a></li>
+        <li><a href="#aboutme">About</a></li>
+        <li><a href="#contact">Contact Us</a></li> 
+      </ul>
+    </div>
+        </nav>
+<div>
+   <div id="contact">
+            <div class="line"></div>
+
+
+
+
+
+
+
+
+            
+            <span>
+    
+         <div  class="contact2  col-lg-6 col-md-6 col-sm-6 col-xs-12" >
+        
+         <img src="WhatsApp Image 2022-10-04 at 7.58.46 AM.jpeg"  style =" border-radius: 10px; border:solid black 1px; width: 25%;"class="img-responsive ing-circle col-lg-3 col-md-3 col-sm-3 col-xs-4">
+
+            <h3> Founder name: </h3>
+            
+            <h4> Rakesh Kumar</h4>
+            </span>
+           <br>
+            <br>
+            <br> 
+            <br>
+            <br>
+            <br>
+
+                <a href="mailto:prasenjeetkumar13@gmail.com">
+                    <p>
+                    <i style="font-size:20px;"   class="fa fa-envelope"></i>&nbsp;&nbsp;
+                    Mail to : prasenjeetkumar13@gmail.com
+                    </p>
+                </a>
+                  
+            <a href="#">
+            
+            <p><i class="fa fa-phone-square" ></i>&nbsp;&nbsp;
+                +91 78807 84788
+            </p>
+                
+            </a>.
+            
+        </div>
+        <div  class="contact1 ">
+              
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28615.315031739527!2d83.92460397835693!3d26.296875540866047!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2084ff5c5ddec828!2sClear%20Concept%20Classes%20by%20Rakesh%20Kumar!5e0!3m2!1sen!2sin!4v1664879104210!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    </div>
+</span>
+
+</div>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
